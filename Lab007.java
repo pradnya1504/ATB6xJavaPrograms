@@ -7,9 +7,9 @@ public class Lab007 {
 //Variables are the containers for storing data values ex.String stores text,int stores integers
         //Variables are the names used to refer to data stored in the memory
         // Variables - Value for the this can be changed in the program.
-        // name -> pradnya
+        // name -> harshita
         // name -> shetty
-        // name -> shrinath
+        // name -> tapasya
 
         //Mother -> [] - sugar ->
         int age = 65;
