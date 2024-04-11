@@ -13,7 +13,7 @@ public class Lab001 {
 
         /**
          * // Multiple Links
-         *  Author - Pramod Dutta
+         *  Author - Arya Thakur
          *  Course Details - ATB6X
          *   adsdadas
          *   dasda
